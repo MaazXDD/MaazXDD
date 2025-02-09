@@ -1,19 +1,42 @@
-<h1 align="center">Hi 👋, I'm Maaz XD</h1>
-<h3 align="center">I am a Python and HTML programmer.</h3>
+[![Discord Presence](https://lanyard.cnrad.dev/api/638157258659856404?theme=dark&showDisplayName=false&idleMessage=Intermediate%20Developer%20and%20Student)](https://discord.com/users/638157258659856404)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maazxdd&label=Profile%20views&color=0e75b6&style=flat" alt="maazxdd" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=692CE9&background=FF000000&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+Syntax+an+experienced+Python+developer;%F0%9F%94%A7+Specializing+in+creating+Discord+bots+and+codez;%F0%9F%92%BB+I+use+Python+and+JavaScript.;%F0%9F%A9%B8+I+build+self-bots+and+nukers+and+many+other+toolz)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaazXDD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MaazXDD&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaazXDD&locale=en&hide_title=false&layout=compact&card_width=320&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maazxdd" alt="maazxdd" /></a> </p>
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/maazxdd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xmvsw" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/HXg6Cwvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HXg6Cwvt" height="30" width="40" /></a>
-</p>
+<img align="right" height="150" src="https://media.discordapp.net/attachments/1330525315084062822/1332694510140133407/lylies.gif?ex=67a5593b&is=67a407bb&hm=aa4ce353bc3578918c6ab9064add8e101990f7c5dda86cc7f05986fcf3656520&="  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maazxdd&show_icons=true&locale=en&layout=compact" alt="maazxdd" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maazxdd&" alt="maazxdd" /></p>
+###
+
+<div align="left">
+  <a href="https://discord.com/invite/query" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MaazXDD/MaazXDD/output/snake.svg" alt="Snake animation" />
+
+###
