@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/638157258659856404?theme=dark&showDisplayName=false&idleMessage=Intermediate%20Developer%20and%20Student)](https://discord.com/users/638157258659856404)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=692CE9&background=FF000000&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+MaazXDD+An+Front+End+Developer;%F0%9F%94%A7+Specializing+in+creating+Discord+bots+and+codez;%F0%9F%92%BB+I+use+Python+and+JavaScript.;%F0%9F%A9%B8+I+build+self-bots+and+nukers+and+many+other+toolz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=692CE9&background=FF000000&center=true&vCenter=true&width=650&lines=%F0%9F%91%BE+Hello!+I%E2%80%99m+MaazXDD+An+Front+End+Developer;%F0%9F%94%A7+Specializing+in+creating+Discord+bots+and+codez;%F0%9F%92%BB+I+use+Html+and+JavaScript.;%F0%9F%A9%B8+I+Create+Discord-Bots+&+Nukers+&+Websites+Other+Things)](https://git.io/typing-svg)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaazXDD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=MaazXDD&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
